@@ -1,4 +1,4 @@
-package com.example.scout_manager
+package com.gerseneck.scout_manager
 
 import io.flutter.embedding.android.FlutterActivity
 
